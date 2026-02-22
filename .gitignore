@@ -1,0 +1,31 @@
+# "hidden" folders
+.curseclient
+.mixin.out/
+.qmenu_opened.marker
+
+# root folders
+crash-reports/
+downloads/
+essential/
+logs/
+xaero/
+
+# root files
+minecraftinstance.json
+options.txt
+emi.json
+patchouli_data.json
+rhino.local.properties
+supportercache.json
+TrashSlotSaveState.json
+usercache.json
+usernamecache.json
+
+# specific modded files & folders
+configureddefaults/README.md
+mod_data/gml/*
+local/kubejs/*/
+
+# all temp and cache files
+**/*temp*
+**/*cache*

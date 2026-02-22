@@ -1,0 +1,111 @@
+
+#Disables certain types. Note that all these configs, like in any other mod, only hide stuff from tabs and disable their recipes
+[types]
+
+	[types.wood_type]
+
+		[types.wood_type.quark]
+			azalea = true
+			ancient = true
+			blossom = true
+
+		[types.wood_type.mysticsbiomes]
+			strawberry = true
+			black_cherry = true
+			lavender = true
+			peach = true
+			maple = true
+			sea_foam = true
+			tropical = true
+			vanilla = true
+
+		[types.wood_type.moons_magical_biomes]
+			rainbow_palm = true
+			blue_bloomeria = true
+			pink_bloomeria = true
+			purple_bloomeria = true
+			white_bloomeria = true
+
+		[types.wood_type.swem]
+			whitewash = true
+
+	[types.cake]
+
+		[types.cake.mysticsbiomes]
+			strawberry_cake = true
+			vanilla_cake = true
+			chocolate_cake = true
+			pink_frosted_cake = true
+			orange_frosted_cake = true
+			yellow_frosted_cake = true
+			lime_frosted_cake = true
+			cyan_frosted_cake = true
+			purple_frosted_cake = true
+
+		[types.cake.farmersrespite]
+			coffee_cake = true
+
+	[types.leaves_type]
+
+		[types.leaves_type.mysticsbiomes]
+			pink_cherry = true
+			white_cherry = true
+			strawberry = true
+			sea_shrub = true
+			yellow_maple = true
+			orange_maple = true
+			peach = true
+			tropical = true
+			peony = true
+			hydrangea = true
+			maple = true
+			vanilla = true
+
+		[types.leaves_type.moons_magical_biomes]
+			rainbow_palm = true
+			blue_bloomeria = true
+			pink_bloomeria = true
+			purple_bloomeria = true
+			white_bloomeria = true
+
+		[types.leaves_type.quark]
+			ancient = true
+			blue_blossom = true
+			lavender_blossom = true
+			orange_blossom = true
+			yellow_blossom = true
+			red_blossom = true
+
+#Disables specific entries
+[entries]
+
+	[entries.wood_type]
+
+		[entries.wood_type.quark]
+			vertical_planks = true
+			post = true
+			trapped_chest = true
+			bookshelf = true
+			chest = true
+			stripped_post = true
+			ladder = true
+			hollow_log = true
+			vertical_slab = true
+
+		[entries.wood_type.backpacked]
+			backpack_shelf = true
+
+		[entries.wood_type.beautify]
+			trellis = true
+			blinds = true
+			picture_frame = true
+
+		[entries.wood_type.farmersdelight]
+			cabinet = true
+
+	[entries.leaves_type]
+
+		[entries.leaves_type.quark]
+			hedge = true
+			leaf_carpet = true
+

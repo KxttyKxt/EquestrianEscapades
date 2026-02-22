@@ -1,0 +1,39 @@
+{
+  "main": {
+    "4": {
+      "title": "Map",
+      "icon": {
+        "stack": "{Count:1b,id:\"minecraft:filled_map\"}"
+      },
+      "action": {
+        "category": "Map"
+      }
+    },
+    "5": {
+      "title": "Gender",
+      "icon": {
+        "stack": "{Count:1b,id:\"heartstone:heartstone\"}"
+      },
+      "action": {
+        "key": {
+          "key": "key.wildfire_gender.gender_menu",
+          "toggle": false
+        }
+      }
+    }
+  },
+  "Map": {
+    "5": {
+      "title": "Open World Map",
+      "icon": {
+        "stack": "{Count:1b,id:\"supplementaries:globe\"}"
+      },
+      "action": {
+        "key": {
+          "key": "gui.xaero_open_map",
+          "toggle": false
+        }
+      }
+    }
+  }
+}

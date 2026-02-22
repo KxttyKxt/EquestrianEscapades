@@ -1,0 +1,17 @@
+[
+    {
+        "hostile": true,
+        "spawner": true,
+        "result": "allow"
+    },
+    {
+        "hostile": true,
+        "seesky": true,
+        "result": "deny"
+    },
+    {
+        "hostile": true,
+        "minheight": 64,
+        "result": "deny"
+    }
+]

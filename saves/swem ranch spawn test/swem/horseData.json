@@ -1,0 +1,34 @@
+{
+  "horseData": {
+    "88a78053-77c3-4e5c-aa68-2dbb0d6fd887": {
+      "horseId": "88a78053-77c3-4e5c-aa68-2dbb0d6fd887",
+      "horseName": "SWEM Horse",
+      "dimension": "minecraft:overworld",
+      "position": {
+        "f_82479_": -6059.0,
+        "f_82480_": 66.0,
+        "f_82481_": 4180.0
+      },
+      "isDead": false,
+      "inventoryData": {"Inventory":[{"Item":{"id":"minecraft:air","Count":0},"Slot":0},{"Item":{"id":"minecraft:air","Count":0},"Slot":1},{"Item":{"id":"minecraft:air","Count":0},"Slot":2},{"Item":{"id":"minecraft:air","Count":0},"Slot":3},{"Item":{"id":"minecraft:air","Count":0},"Slot":4},{"Item":{"id":"minecraft:air","Count":0},"Slot":5},{"Item":{"id":"minecraft:air","Count":0},"Slot":6},{"Item":{"id":"minecraft:air","Count":0},"Slot":7}]},
+      "progressionData": {"JumpLevel":0,"SpeedLevel":0,"AffinityXP":0.0,"AffinityLevel":0,"daysSwiped":[0,0,0,0,0],"HealthLevel":0,"JumpXP":0.0,"HealthXP":0.0,"desensiztingItem":{"id":"minecraft:air","Count":0},"SpeedXP":0.0,"TimesBrushed":0,"currentSwipes":0},
+      "genderData": {"TotalOffsprings":0,"Female":0,"Infertile":0,"InLoveTimer":0,"BreedCooldown":0},
+      "lineageData": {"Data":{"Offsprings":[]}}
+    },
+    "9c1c9464-177f-40f9-ad92-5951dad29041": {
+      "horseId": "9c1c9464-177f-40f9-ad92-5951dad29041",
+      "horseName": "SWEM Horse",
+      "dimension": "minecraft:overworld",
+      "position": {
+        "f_82479_": -5752.0,
+        "f_82480_": 64.0,
+        "f_82481_": 4439.0
+      },
+      "isDead": false,
+      "inventoryData": {"Inventory":[{"Item":{"id":"minecraft:air","Count":0},"Slot":0},{"Item":{"id":"minecraft:air","Count":0},"Slot":1},{"Item":{"id":"minecraft:air","Count":0},"Slot":2},{"Item":{"id":"minecraft:air","Count":0},"Slot":3},{"Item":{"id":"minecraft:air","Count":0},"Slot":4},{"Item":{"id":"minecraft:air","Count":0},"Slot":5},{"Item":{"id":"minecraft:air","Count":0},"Slot":6},{"Item":{"id":"minecraft:air","Count":0},"Slot":7}]},
+      "progressionData": {"JumpLevel":0,"SpeedLevel":0,"AffinityXP":0.0,"AffinityLevel":0,"daysSwiped":[0,0,0,0,0],"HealthLevel":0,"JumpXP":0.0,"HealthXP":0.0,"desensiztingItem":{"id":"minecraft:air","Count":0},"SpeedXP":0.0,"TimesBrushed":0,"currentSwipes":0},
+      "genderData": {"TotalOffsprings":0,"Female":0,"Infertile":0,"InLoveTimer":0,"BreedCooldown":0},
+      "lineageData": {"Data":{"Offsprings":[]}}
+    }
+  }
+}
