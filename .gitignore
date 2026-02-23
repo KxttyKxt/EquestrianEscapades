@@ -4,28 +4,43 @@
 .qmenu_opened.marker
 
 # root folders
-crash-reports/
-downloads/
-essential/
-logs/
-xaero/
+/crash-reports
+/downloads
+/essential
+/logs
+/saves
+/screenshots
+/xaero
 
 # root files
-minecraftinstance.json
-options.txt
 emi.json
+minecraftinstance.json
+ops.json
+options.txt
 patchouli_data.json
 rhino.local.properties
 supportercache.json
 TrashSlotSaveState.json
+user-prefs.json
 usercache.json
 usernamecache.json
+whitelist.json
 
 # specific modded files & folders
 configureddefaults/README.md
+local/kubejs/*
 mod_data/gml/*
-local/kubejs/*/
 
-# all temp and cache files
-**/*temp*
+# all backup, cache, and temp files
+**/*backup*
 **/*cache*
+**/*temp*
+**/hs_err_pid*.log
+
+# client/opinionated config files
+config/embeddium-options.json
+config/fabric/indigo-renderer.properties
+config/modernstartupqol/startup_times.json
+config/oculus.properties
+config/particlerain.json
+config/sodium-extra-options.json

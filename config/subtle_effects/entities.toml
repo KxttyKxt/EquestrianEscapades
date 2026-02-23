@@ -69,8 +69,8 @@ additionalBiomes = [  ]
 
 [humanoids.player]
 enableBreathingEffectsInCreative = true
-stomachGrowlingThreshold = 6
-stomachGrowlingVolume = 1.0
+stomachGrowlingThreshold = 1
+stomachGrowlingVolume = 0.5
 stomachGrowlingWaitTime = 15
 heartBeatingThreshold = 6
 heartbeatVolume = 1.0
