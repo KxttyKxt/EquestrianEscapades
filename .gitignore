@@ -21,6 +21,7 @@ patchouli_data.json
 rhino.local.properties
 supportercache.json
 TrashSlotSaveState.json
+servers*.dat*
 user-prefs.json
 usercache.json
 usernamecache.json
