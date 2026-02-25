@@ -1,17 +1,19 @@
 [
-    {
-        "hostile": true,
-        "spawner": true,
-        "result": "allow"
-    },
-    {
-        "hostile": true,
-        "seesky": true,
-        "result": "deny"
-    },
-    {
-        "hostile": true,
-        "minheight": 64,
-        "result": "deny"
-    }
+	{
+		"hostile": true,
+		"dimension": "minecraft:overworld",
+		"spawntype": "natural",
+
+		"seesky": false,
+		"cave": true,
+
+		"result": "default"
+	},
+	{
+		"hostile": true,
+		"dimension": "minecraft:overworld",
+		"spawntype": "natural",
+
+		"result": "deny"
+	}
 ]

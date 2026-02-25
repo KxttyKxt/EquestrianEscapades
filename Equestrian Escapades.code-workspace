@@ -8,6 +8,9 @@
         },
         {
             "path": "kubejs"
+        },
+        {
+            "path": "config/incontrol"
         }
     ],
     "settings": {}
