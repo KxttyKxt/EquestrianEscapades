@@ -11,6 +11,9 @@
         },
         {
             "path": "config/incontrol"
+        },
+        {
+            "path": "defaultconfigs"
         }
     ],
     "settings": {}
