@@ -18,12 +18,12 @@
     "displayNameWhenIconFails": true,
     "entityNumber": 1000.0,
     "alwaysDisplayNametags": false,
-    "dotSize": 2.0,
     "startFadingAt": 0.0,
+    "dotSize": 2.0,
     "renderOverMinimapFrame": 1.0,
     "icons": 1.0,
-    "heightLimit": 20.0,
     "names": 0.0,
+    "heightLimit": 20.0,
     "iconScale": 1.0
   },
   "subCategories": [
@@ -33,13 +33,15 @@
       "includeListInSuperCategory": true,
       "excludeMode": "ONLY",
       "excludeList": [
-        "minecraft:armor_stand"
+        "minecraft:armor_stand",
+        "minecraft:villager"
       ],
       "name": "gui.xaero_entity_category_living",
       "protection": true,
       "settingOverrides": {
         "renderOrder": 2.0,
-        "color": 7.0
+        "color": 7.0,
+        "icons": 2.0
       },
       "subCategories": [
         {
@@ -52,10 +54,10 @@
           "protection": true,
           "settingOverrides": {
             "renderOrder": 6.0,
-            "heightLimit": 2050.0,
-            "names": 1.0,
             "color": 13.0,
-            "icons": 2.0
+            "icons": 2.0,
+            "names": 1.0,
+            "heightLimit": 2050.0
           },
           "subCategories": [
             {
@@ -131,7 +133,8 @@
               "protection": true,
               "settingOverrides": {
                 "renderOrder": 5.0,
-                "color": 1.0
+                "color": 1.0,
+                "names": 2.0
               },
               "subCategories": []
             }
@@ -146,7 +149,8 @@
           "name": "gui.xaero_entity_category_friendly",
           "protection": true,
           "settingOverrides": {
-            "color": 10.0
+            "color": 10.0,
+            "icons": 2.0
           },
           "subCategories": [
             {
@@ -159,7 +163,8 @@
               "protection": true,
               "settingOverrides": {
                 "renderOrder": 4.0,
-                "color": 9.0
+                "color": 9.0,
+                "names": 2.0
               },
               "subCategories": []
             }
@@ -177,8 +182,9 @@
       "protection": true,
       "settingOverrides": {
         "renderOrder": 1.0,
-        "names": 1.0,
-        "color": 6.0
+        "color": 6.0,
+        "icons": 0.0,
+        "names": 1.0
       },
       "subCategories": []
     },
