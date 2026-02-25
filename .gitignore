@@ -2,6 +2,7 @@
 .curseclient
 .mixin.out/
 .qmenu_opened.marker
+.vscode/
 
 # root folders
 /crash-reports
