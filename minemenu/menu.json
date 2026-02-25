@@ -1,5 +1,17 @@
 {
   "main": {
+    "2": {
+      "title": "Pick Block",
+      "icon": {
+        "stack": "{Count:1b,id:\"minecraft:grass_block\"}"
+      },
+      "action": {
+        "key": {
+          "key": "key.pickItem",
+          "toggle": false
+        }
+      }
+    },
     "3": {
       "title": "Toggle Magnet",
       "icon": {
@@ -35,6 +47,30 @@
     }
   },
   "Map": {
+    "3": {
+      "title": "Add Waypoint",
+      "icon": {
+        "stack": "{Count:1b,id:\"minecraft:compass\"}"
+      },
+      "action": {
+        "key": {
+          "key": "gui.xaero_new_waypoint",
+          "toggle": false
+        }
+      }
+    },
+    "4": {
+      "title": "Waypoints Manager",
+      "icon": {
+        "stack": "{Count:1b,id:\"waystones:return_scroll\"}"
+      },
+      "action": {
+        "key": {
+          "key": "gui.xaero_waypoints_key",
+          "toggle": false
+        }
+      }
+    },
     "5": {
       "title": "Open World Map",
       "icon": {
