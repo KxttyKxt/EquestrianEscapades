@@ -1,5 +1,41 @@
 {
   "main": {
+    "1": {
+      "title": "Construction Stick Options",
+      "icon": {
+        "stack": "{Count:1b,id:\"constructionstick:diamond_stick\",tag:{Damage:0}}"
+      },
+      "action": {
+        "key": {
+          "key": "key.constructionstick.open_gui",
+          "toggle": false
+        }
+      }
+    },
+    "2": {
+      "title": "Pick Block",
+      "icon": {
+        "stack": "{Count:1b,id:\"minecraft:grass_block\"}"
+      },
+      "action": {
+        "key": {
+          "key": "key.pickItem",
+          "toggle": false
+        }
+      }
+    },
+    "3": {
+      "title": "Toggle Magnet",
+      "icon": {
+        "stack": "{Count:1b,id:\"simplemagnets:basicmagnet\",tag:{}}"
+      },
+      "action": {
+        "key": {
+          "key": "simplemagnets.keys.toggle",
+          "toggle": false
+        }
+      }
+    },
     "4": {
       "title": "Map",
       "icon": {
@@ -23,6 +59,30 @@
     }
   },
   "Map": {
+    "3": {
+      "title": "Add Waypoint",
+      "icon": {
+        "stack": "{Count:1b,id:\"minecraft:compass\"}"
+      },
+      "action": {
+        "key": {
+          "key": "gui.xaero_new_waypoint",
+          "toggle": false
+        }
+      }
+    },
+    "4": {
+      "title": "Waypoints Manager",
+      "icon": {
+        "stack": "{Count:1b,id:\"waystones:return_scroll\"}"
+      },
+      "action": {
+        "key": {
+          "key": "gui.xaero_waypoints_key",
+          "toggle": false
+        }
+      }
+    },
     "5": {
       "title": "Open World Map",
       "icon": {

@@ -1,0 +1,1 @@
+execute as @e[type=swem:swem_horse,limit=1,sort=nearest,distance=..5] at @s if block ~ ~ ~ water run effect give @s minecraft:levitation 3 0

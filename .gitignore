@@ -2,6 +2,7 @@
 .curseclient
 .mixin.out/
 .qmenu_opened.marker
+.vscode/
 
 # root folders
 /crash-reports
@@ -14,6 +15,7 @@
 
 # root files
 emi.json
+hs_err_pid*.log
 minecraftinstance.json
 ops.json
 options.txt
@@ -21,6 +23,7 @@ patchouli_data.json
 rhino.local.properties
 supportercache.json
 TrashSlotSaveState.json
+servers*.dat*
 user-prefs.json
 usercache.json
 usernamecache.json
@@ -31,16 +34,19 @@ configureddefaults/README.md
 local/kubejs/*
 mod_data/gml/*
 
-# all backup, cache, and temp files
-**/*backup*
-**/*cache*
-**/*temp*
-**/hs_err_pid*.log
+# all backup, cache, and temp directories
+**/*backup*/
+**/*cache*/
+**/*temp*/
 
 # client/opinionated config files
+config/cubes_without_borders.json
+config/dynamic_fps.json
 config/embeddium-options.json
 config/fabric/indigo-renderer.properties
+config/languagereload-client.toml
 config/modernstartupqol/startup_times.json
 config/oculus.properties
 config/particlerain.json
 config/sodium-extra-options.json
+config/WildfireGender/client.toml

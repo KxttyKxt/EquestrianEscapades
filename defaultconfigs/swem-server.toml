@@ -6,7 +6,7 @@
 	# || Do horses need to drink? (Default = True = Yes)
 	needWater = true
 	# || Enable Poop ticking on swem horses? (Default = True = Yes)
-	poopTick = true
+	poopTick = false
 	# || Specify range (radius) that the horses search for food/water. The larger the  radius, the more lag it can cause per horse.
 	# || We recommend "15" (30b diameter) for servers.
 	#Range: 5 ~ 40
@@ -16,7 +16,7 @@
 	#Range: > 1
 	poopInterval = 1800
 	# || Enable Pee ticking on swem horses? (Default = True = Yes)
-	peeTick = true
+	peeTick = false
 	# || Specify in seconds the interval between each pee cycle.
 	# || We recommend '1500' (25min) for singleplayer, and '2700' (45min) for multiplayer.
 	#Range: > 1
@@ -91,7 +91,7 @@
 # || =========== [Tack Dependencies] =========== ||
 [tack_dependencies]
 	# || Is the Bridle slot required before equipping a Blanket? (Default = True = Yes)
-	needBridle = true
+	needBridle = false
 	# || Is the Blanket slot required before equipping a Saddle? (Default = True = Yes)
 	needBlanket = true
 	# || Is the Saddle slot required before equipping the Girth Strap,  Breast Collar, and/or Saddlebag? (Default = True = Yes)
