@@ -38,6 +38,8 @@ mod_data/gml/*
 **/*cache*
 **/*temp*
 **/hs_err_pid*.log
+# ...except for mods. like Simple Backups.
+!mods/*backup*
 
 # client/opinionated config files
 config/cubes_without_borders.json
