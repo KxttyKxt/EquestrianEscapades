@@ -1,0 +1,8 @@
+{
+    "replace": "false",
+    "values": [
+        "swem:alfalfa_seeds",
+        "swem:oat_seeds",
+        "swem:timothy_seeds"
+    ]
+}
