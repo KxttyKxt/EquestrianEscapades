@@ -1,5 +1,6 @@
 [
 	{
+        "mod": "minecraft",
 		"hostile": true,
 		"dimension": "minecraft:overworld",
 		"spawntype": "natural",
@@ -10,6 +11,7 @@
 		"result": "default"
 	},
 	{
+        "mod": "minecraft",
 		"hostile": true,
 		"dimension": "minecraft:overworld",
 		"spawntype": "natural",
