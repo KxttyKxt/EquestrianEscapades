@@ -1,10 +1,10 @@
 {
-  "allowReClinging": true,
+  "allowReClinging": false,
   "autoRotation": false,
   "onFallDoubleJump": true,
   "onFallWallCling": true,
   "exhaustionWallJump": 0.8,
-  "minFallDistance": 3.0,
+  "minFallDistance": 6.0,
   "elytraSpeedBoost": 0.0,
   "sprintSpeedBoost": 0.0,
   "stepAssist": true,
@@ -18,7 +18,7 @@
   "blockList": [],
   "blockListMode": "BLACKLIST",
   "enableEnchantments": true,
-  "enableWallJump": true,
+  "enableWallJump": false,
   "enableDoubleJump": true,
   "enableSpeedBoost": true,
   "speedBoostMultiplier": 0.5
