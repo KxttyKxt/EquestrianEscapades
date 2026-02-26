@@ -92,9 +92,6 @@
 			hollow_log = true
 			vertical_slab = true
 
-		[entries.wood_type.backpacked]
-			backpack_shelf = true
-
 		[entries.wood_type.beautify]
 			trellis = true
 			blinds = true
