@@ -11,7 +11,7 @@
 	#Should horses be replaced by O-Horses?
 	"Replace Horses" = false
 	#Should mules be replaced by O-Mules?
-	"Replace Mules" = false
+	"Replace Mules" = true
 	#Should donkeys be replaced by O-Donkeys?
 	"Replace Donkeys" = true
 	#Should cows be replaced by O-Cows?
@@ -23,7 +23,7 @@
 	#Should pigs be replaced by O-Pigs?
 	"Replace Pigs" = true
 	#Should llamas be replaced by O-Llamas?
-	"Replace Llamas" = false
+	"Replace Llamas" = true
 	#Should rabbits be replaced by O-Rabbits?
 	"Replace Rabbits" = true
 	#Should  be replaced by O-Salmon?

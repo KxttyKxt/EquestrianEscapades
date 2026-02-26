@@ -1,5 +1,17 @@
 {
   "main": {
+    "1": {
+      "title": "Construction Stick Options",
+      "icon": {
+        "stack": "{Count:1b,id:\"constructionstick:diamond_stick\",tag:{Damage:0}}"
+      },
+      "action": {
+        "key": {
+          "key": "key.constructionstick.open_gui",
+          "toggle": false
+        }
+      }
+    },
     "2": {
       "title": "Pick Block",
       "icon": {
