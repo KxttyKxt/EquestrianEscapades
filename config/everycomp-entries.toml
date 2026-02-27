@@ -29,6 +29,9 @@
 		[types.wood_type.swem]
 			whitewash = true
 
+		[types.wood_type.vinery]
+			dark_cherry = true
+
 	[types.cake]
 
 		[types.cake.mysticsbiomes]
@@ -75,6 +78,11 @@
 			orange_blossom = true
 			yellow_blossom = true
 			red_blossom = true
+
+		[types.leaves_type.vinery]
+			grapevine = true
+			dark_cherry = true
+			apple = true
 
 #Disables specific entries
 [entries]
