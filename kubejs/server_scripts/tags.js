@@ -9,4 +9,13 @@ ServerEvents.tags("item", event => {
         if (!mincedBeefBlacklist.test(item))
             event.add(choppableBeefTag, item)
     })
+
+    const cookedSteakTag = "escapades:cooked_steak";
+    const steakItems = event.get("forge:cooked_beef").getObjectIds();
+    const pattyBlacklist = Ingredient.of(/farmersdelight:beef_patty/)
+
+    steakItems.forEach(item => {
+        if (!pattyBlacklist.test(item))
+            event.add(cookedSteakTag, item)
+    })
 });

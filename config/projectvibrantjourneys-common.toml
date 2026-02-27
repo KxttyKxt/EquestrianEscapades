@@ -75,7 +75,7 @@
 	#Enable generation of beached kelp
 	enableBeachedKelp = true
 	#Enable generation of extra lilypads in lakes
-	enableExtraLilypads = true
+	enableExtraLilypads = false
 	#Enable generation of extra seagrass in lakes
 	enableExtraSeagrass = true
 	#Enable generation of extra grass in rivers
