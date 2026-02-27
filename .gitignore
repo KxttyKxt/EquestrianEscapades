@@ -1,5 +1,6 @@
 # "hidden" folders
 .curseclient
+.DS_Store
 .mixin.out/
 .qmenu_opened.marker
 .vscode/
@@ -16,6 +17,7 @@
 # root files
 emi.json
 hs_err_pid*.log
+icon.png
 minecraftinstance.json
 ops.json
 options.txt
