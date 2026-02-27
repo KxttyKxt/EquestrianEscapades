@@ -44,6 +44,7 @@ config/cubes_without_borders.json
 config/dynamic_fps.json
 config/embeddium-options.json
 config/fabric/indigo-renderer.properties
+config/jade/jade.json
 config/languagereload-client.toml
 config/modernstartupqol/startup_times.json
 config/oculus.properties
