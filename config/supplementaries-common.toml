@@ -99,7 +99,7 @@
 		#Makes sliding down ropes as fast as free falling, still negating fall damage
 		slide_on_fall = true
 		#In case you want to disable supplementaries ropes you can specify here another mod rope and they will be used for rope arrows and in mineshafts instead
-		rope_override = "supplementaries:rope"
+		rope_override = "farmersdelight:rope"
 		#Enables horizontal placement of ropes. Disabling will make ropes always non solid
 		horizontal_ropes = true
 		#Use this config to turn allow supplementaries to replace all items tagged as #supplementaies:ropes with supplementaries own rope or turn them to air instead. This is applied to all loot tables (chests and drops)
@@ -511,15 +511,15 @@
 		#Range: 0.0 ~ 100.0
 		damageable_damage = 0.5
 		#Allows splash potions to be thrown by slingshots
-		allow_splash_potions = false
+		allow_splash_potions = true
 		#Allows bombs to be thrown by slingshots
-		allow_bombs = false
+		allow_bombs = true
 		#Allows fire charges to be thrown by slingshots
-		allow_fire_charges = false
+		allow_fire_charges = true
 		#Allows snowballs to be thrown by slingshots
-		allow_snowballs = false
+		allow_snowballs = true
 		#Allows enderpearls to be thrown by slingshots
-		allow_enderpearls = false
+		allow_enderpearls = true
 
 	[tools.antique_ink]
 		enabled = true
@@ -527,11 +527,11 @@
 #General settings
 [general]
 	#Enable Creative Tab
-	creative_tab = false
+	creative_tab = true
 	#Set to false to disable custom dispenser behaviors (i.e: filling jars) if for some reason they are causing trouble
 	dispensers = true
 	#Creates a creative tab full of filled jars
-	jar_tab = false
+	jar_tab = true
 	#Save generated resources to disk in a 'debug' folder in your game directory. Mainly for debug purposes but can be used to generate assets in all wood types for your mods :0
 	debug_save_dynamic_pack = false
 	#Turn this on to disable any interaction on blocks placed by other players. This affects item shelves, signs, flower pots, and boards. Useful for protected servers. Note that it will affect only blocks placed after this is turned on and such blocks will keep being protected after this option is disabled

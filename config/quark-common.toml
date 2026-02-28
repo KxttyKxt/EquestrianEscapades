@@ -28,7 +28,7 @@
 	#The amount of slots the chest button system should seek when trying to figure out if a container should be eligible for them.
 	"Chest Button Slot Target" = 27
 	#Set this to false to not generate the Quark Programmer Art resource pack
-	"Generate Programmer Art" = true
+	"Generate Programmer Art" = false
 
 	[general.chest_button_offsets]
 		"Player X" = 0
@@ -159,17 +159,17 @@
 		"Enable Cactus Block" = true
 		"Enable Chorus Fruit Block" = true
 		"Enable Stick Block" = true
-		"Enable Apple Crate" = true
-		"Enable Golden Apple Crate" = true
-		"Enable Potato Crate" = true
-		"Enable Carrot Crate" = true
-		"Enable Golden Carrot Crate" = true
-		"Enable Beetroot Crate" = true
-		"Enable Cocoa Bean Sack" = true
+		"Enable Apple Crate" = false
+		"Enable Golden Apple Crate" = false
+		"Enable Potato Crate" = false
+		"Enable Carrot Crate" = false
+		"Enable Golden Carrot Crate" = false
+		"Enable Beetroot Crate" = false
+		"Enable Cocoa Bean Sack" = false
 		"Enable Nether Wart Sack" = true
-		"Enable Gunpowder Sack" = true
-		"Enable Berry Sack" = true
-		"Enable Glow Berry Sack" = true
+		"Enable Gunpowder Sack" = false
+		"Enable Berry Sack" = false
+		"Enable Glow Berry Sack" = false
 		"Enable Blaze Lantern" = true
 		"Enable Bonded Leather" = true
 		"Enable Bonded Rabbit Hide" = true
@@ -346,7 +346,7 @@
 	"Color Runes" = true
 	"Endermosh Music Disc" = true
 	"Parrot Eggs" = true
-	"Pathfinder Maps" = true
+	"Pathfinder Maps" = false
 	Pickarang = true
 	"Seed Pouch" = true
 	"Skull Pikes" = true
@@ -521,7 +521,7 @@
 	"Double Door Opening" = true
 	"Dragon Scales" = true
 	"Dyeable Item Frames" = true
-	Emotes = true
+	Emotes = false
 	"Enhanced Ladders" = true
 	"Glass Shard" = true
 	"Gold Tools Have Fortune" = true
@@ -545,7 +545,7 @@
 	"Replace Scaffolding" = true
 	"Safer Creatures" = true
 	"Shulker Packing" = true
-	"Simple Harvest" = true
+	"Simple Harvest" = false
 	"Slabs To Blocks" = true
 	"Slimes To Magma Cubes" = true
 	"Snow Golem Player Heads" = true

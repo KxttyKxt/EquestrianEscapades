@@ -1,5 +1,7 @@
 {
-    "values": [],
+    "values": [
+        "supplementaries:quiver"
+    ],
     "remove": [ 
         "sophisticatedbackpacks:backpack",
         "sophisticatedbackpacks:copper_backpack",

@@ -25,5 +25,9 @@
             "path": ".modpack"
         }
     ],
-    "settings": {}
+    "settings": {
+        "files.autoSave": "onFocusChange",
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+
+    }
 }

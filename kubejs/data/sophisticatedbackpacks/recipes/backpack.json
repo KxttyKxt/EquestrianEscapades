@@ -1,0 +1,25 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"key": {
+		"S": {
+			"item": "string"
+		},
+        "L": {
+            "item": "minecraft:leather"
+        },
+        "C": {
+            "tag": "c:chests"
+        },
+        "B": {
+            "item": "quark:bonded_leather"
+        }
+	},
+	"pattern": [
+        "SLS", 
+        "SCS", 
+        "LBL"
+    ],
+	"result": {
+		"item": "sophisticatedbackpacks:backpack"
+	}
+}

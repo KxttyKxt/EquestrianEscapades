@@ -1,4 +1,8 @@
 {
+    "values": [
+        "minecraft:bundle",
+        "quark:seed_pouch"
+    ],
     "remove": [ 
         "minecraft:lantern",
         "minecraft:soul_lantern"
