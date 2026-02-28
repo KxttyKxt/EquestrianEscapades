@@ -1,6 +1,4 @@
 {
-    "replace": false,
-    "values": [],
     "remove": [ 
         "minecraft:lantern",
         "minecraft:soul_lantern"
