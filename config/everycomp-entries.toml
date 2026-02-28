@@ -32,6 +32,9 @@
 		[types.wood_type.vinery]
 			dark_cherry = true
 
+		[types.wood_type.dungeonsdelight]
+			wormwood = true
+
 	[types.cake]
 
 		[types.cake.mysticsbiomes]
@@ -47,6 +50,9 @@
 
 		[types.cake.farmersrespite]
 			coffee_cake = true
+
+		[types.cake.dungeonsdelight]
+			monster_cake = true
 
 	[types.leaves_type]
 
@@ -83,6 +89,10 @@
 			grapevine = true
 			dark_cherry = true
 			apple = true
+
+		[types.leaves_type.culturaldelights]
+			fruiting_avocado = true
+			avocado = true
 
 #Disables specific entries
 [entries]
