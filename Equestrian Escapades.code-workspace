@@ -17,6 +17,9 @@
         },
         {
             "path": "logs"
+        },
+        {
+            "path": "saves/Tests/serverconfig"
         }
     ],
     "settings": {}

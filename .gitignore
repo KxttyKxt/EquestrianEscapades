@@ -6,13 +6,14 @@
 .vscode/
 
 # root folders
-/crash-reports
-/downloads
-/essential
-/logs
-/saves
-/screenshots
-/xaero
+cache/
+crash-reports/
+downloads/
+essential/
+logs/
+saves/
+screenshots/
+xaero/
 
 # root files
 emi.json
