@@ -1,0 +1,2 @@
+The "Pocket" slot from Majrusz's Accessories is made using the Curios API's limited mod config capabilities.
+As such, its code is obscured and unmodifiable from a data-driven standpoint.

@@ -20,6 +20,9 @@
         },
         {
             "path": "saves/Tests/serverconfig"
+        },
+        {
+            "path": ".modpack"
         }
     ],
     "settings": {}
