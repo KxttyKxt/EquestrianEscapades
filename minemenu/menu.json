@@ -25,13 +25,13 @@
       }
     },
     "3": {
-      "title": "Toggle Magnet",
+      "title": "Coin of Fortune",
       "icon": {
-        "stack": "{Count:1b,id:\"simplemagnets:basicmagnet\",tag:{}}"
+        "stack": "{Count:1b,id:\"reliquary:fortune_coin\"}"
       },
       "action": {
         "key": {
-          "key": "simplemagnets.keys.toggle",
+          "key": "keybind.reliquary.fortune_coin",
           "toggle": false
         }
       }
