@@ -17,5 +17,10 @@
 		"spawntype": "natural",
 
 		"result": "deny"
-	}
+	},
+    {
+        "mob": "mythicmounts:dragon",
+        "seesky": true,
+        "result": "deny"
+    }
 ]
