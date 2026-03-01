@@ -1,4 +1,5 @@
 {
-    "values": [],
-    "remove": []
+    "values": [
+        "reliquary:hero_medallion"
+    ]
 }

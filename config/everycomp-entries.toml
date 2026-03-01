@@ -35,6 +35,9 @@
 		[types.wood_type.dungeonsdelight]
 			wormwood = true
 
+		[types.wood_type.mynethersdelight]
+			powdery = true
+
 	[types.cake]
 
 		[types.cake.mysticsbiomes]
@@ -53,6 +56,9 @@
 
 		[types.cake.dungeonsdelight]
 			monster_cake = true
+
+		[types.cake.mynethersdelight]
+			magma_cake = true
 
 	[types.leaves_type]
 
@@ -126,6 +132,14 @@
 			shutter = true
 			bench = true
 			chair = true
+
+		[entries.wood_type.decoration_delight]
+			mosaic = true
+			counter = true
+			countertop = true
+			stool = true
+			counter_bend = true
+			counter_corner = true
 
 	[entries.leaves_type]
 
