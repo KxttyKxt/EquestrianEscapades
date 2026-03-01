@@ -11,4 +11,11 @@ ServerEvents.recipes(event => {
             "minecraft:saddle"
         ]
     )
+
+    // in recipes that use vanilla eggs, replace with any/all eggs
+    event.replaceInput(
+        { input: "minecraft:egg" },
+        "minecraft:egg",
+        "#forge:eggs"
+    )
 });
