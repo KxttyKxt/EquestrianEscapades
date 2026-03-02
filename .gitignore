@@ -53,5 +53,6 @@ config/languagereload-client.toml
 config/modernstartupqol/startup_times.json
 config/oculus.properties
 config/particlerain.json
+config/sodiumextra-client.toml
 config/sodium-extra-options.json
 config/WildfireGender/client.toml
