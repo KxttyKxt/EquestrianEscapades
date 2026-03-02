@@ -124,15 +124,6 @@
 		[entries.wood_type.farmersdelight]
 			cabinet = true
 
-		[entries.wood_type.another_furniture]
-			table = true
-			flower_box = true
-			shelf = true
-			drawer = true
-			shutter = true
-			bench = true
-			chair = true
-
 		[entries.wood_type.decoration_delight]
 			mosaic = true
 			counter = true
