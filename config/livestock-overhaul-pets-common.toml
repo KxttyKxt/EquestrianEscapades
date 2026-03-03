@@ -21,7 +21,7 @@
 	#Should cropped O-Dogs be allowed to spawn? Whilst players can't crop them themselves, you can chose to allow natural ones to spawn.
 	"Allow Naturally-Cropped Dogs" = false
 	#Should wild O-Wolf packs attack players?
-	"Wolf Packs Attack Players" = true
+	"Wolf Packs Attack Players" = false
 	#Maximum amount of O-Wolves that can pack together. Default is 6.
 	"Wolf Pack Maximum" = 6
 	#Maximum amount of O-Dogs that can pack together. Default is 3.
