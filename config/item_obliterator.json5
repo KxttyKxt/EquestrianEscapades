@@ -16,15 +16,17 @@
     // Items here will be unusable completely
     //    Example: minecraft:diamond
     "blacklisted_items": [
+        // All shields except for those from shieldexpexp
         "minecraft:shield",
         "shieldexp:wooden_shield",
         "shieldexp:golden_shield",
         "shieldexp:iron_shield",
         "shieldexp:diamond_shield",
         "shieldexp:netherite_shield",
-        
         // All swem gear except riding boots and cowboy/riding hats
-        "!swem:(scythe|pickaxe|axe|shovel|sword|leggings|helmet|chestplate|bow|shield).*"
+        "!swem:(scythe|pickaxe|axe|shovel|sword|leggings|helmet|chestplate|bow|shield).*",
+        // All swift blades from Prefab
+        "!prefab:item_swift_blade_.*"
     ],
     // -----------------------------------------------------------
     // Removes an item if it contains certain nbt tag. If the whole entry (or expression) is present, the item gets removed.
