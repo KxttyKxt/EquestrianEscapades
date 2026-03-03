@@ -11,7 +11,7 @@
 	gaitHudEnabled = true
 	# || How much would you like to offset the current X position? (A negative value moves the text up and a positive value down.)				
 	#Range: > -2147483648
-	gaitHudX = 0
+	gaitHudX = 30
 	# || How much would you like to offset the current Y position? (A negative value moves the text up and a positive value down.)				
 	#Range: > -2147483648
 	gaitHudY = 0

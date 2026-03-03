@@ -26,7 +26,7 @@
         // All swem gear except riding boots and cowboy/riding hats
         "!swem:(scythe|pickaxe|axe|shovel|sword|leggings|helmet|chestplate|bow|shield).*",
         // All swift blades from Prefab
-        "!prefab:item_swift_blade_.*"
+        "!prefab:item_(swift_blade|sickle)_.*"
     ],
     // -----------------------------------------------------------
     // Removes an item if it contains certain nbt tag. If the whole entry (or expression) is present, the item gets removed.
