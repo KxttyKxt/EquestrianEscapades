@@ -18,4 +18,11 @@ ServerEvents.recipes(event => {
         "minecraft:egg",
         "#forge:eggs"
     );
+
+    // remove all rivets + plates recipes
+    //const rivetPlateMaterials = ["copper", "iron", "gold", "diamond", "netherite"]
+    //rivetPlateMaterials.forEach(material => {
+    //    event.remove([{input: `swem:rivet_${material}`},{output: `swem:rivet_${material}`}])
+    //    event.remove([{input: `swem:plate_${material}`},{output: `swem:plate_${material}`}])
+    //})
 });
