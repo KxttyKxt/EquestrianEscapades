@@ -15,7 +15,7 @@
 	#Use range for XP drop, instead of set amount.
 	xpFromHarvestUseRange = true
 	#Range of XP dropped on harvest. Format: "min-max", example: "0-3"
-	xpFromHarvestRangeAmount = "3-8"
+	xpFromHarvestRangeAmount = "3-6"
 	#Harvestable crops.
 	#Format: "harvestState[,afterHarvest]", i.e. "minecraft:wheat[age=7]"
 	#or "minecraft:cocoa[age=2,facing=north],minecraft:cocoa[age=0,facing=north]"
