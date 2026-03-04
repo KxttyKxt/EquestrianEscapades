@@ -132,6 +132,15 @@
 			counter_bend = true
 			counter_corner = true
 
+		[entries.wood_type.storagedrawers]
+			trim = true
+			full_drawers_2 = true
+			half_drawers_1 = true
+			full_drawers_4 = true
+			half_drawers_4 = true
+			half_drawers_2 = true
+			full_drawers_1 = true
+
 	[entries.leaves_type]
 
 		[entries.leaves_type.quark]
