@@ -1,0 +1,1 @@
+Platform.mods.escapades.name = "Equestrian Escapades";

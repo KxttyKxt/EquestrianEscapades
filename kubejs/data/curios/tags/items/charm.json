@@ -1,9 +1,9 @@
 {
     "values": [
-        "reliquary:fortune_coin",
-        "reliquary:hero_medallion",
         "majruszsaccessories:golden_horseshoe",
         "majruszsaccessories:horseshoe",
-        "majruszsaccessories:owl_feather"
+        "majruszsaccessories:owl_feather",
+        "reliquary:fortune_coin",
+        "reliquary:hero_medallion"
     ]
 }

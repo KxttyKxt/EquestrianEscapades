@@ -10,16 +10,16 @@
   "name": "gui.xaero_entity_category_root",
   "protection": true,
   "settingOverrides": {
-    "displayed": true,
     "displayHeight": 0.0,
+    "displayed": true,
     "heightBasedFade": true,
     "renderOrder": 0.0,
     "color": 13.0,
     "displayNameWhenIconFails": true,
     "entityNumber": 1000.0,
     "alwaysDisplayNametags": false,
-    "startFadingAt": 0.0,
     "dotSize": 2.0,
+    "startFadingAt": 0.0,
     "renderOverMinimapFrame": 1.0,
     "icons": 1.0,
     "heightLimit": 20.0,
@@ -52,10 +52,10 @@
           "protection": true,
           "settingOverrides": {
             "renderOrder": 6.0,
-            "color": 11.0,
-            "icons": 1.0,
             "heightLimit": 2050.0,
-            "names": 2.0
+            "names": 2.0,
+            "color": 11.0,
+            "icons": 1.0
           },
           "subCategories": [
             {
@@ -133,8 +133,8 @@
               "protection": true,
               "settingOverrides": {
                 "renderOrder": 5.0,
-                "color": 1.0,
-                "names": 2.0
+                "names": 2.0,
+                "color": 1.0
               },
               "subCategories": []
             }
@@ -162,8 +162,8 @@
               "protection": true,
               "settingOverrides": {
                 "renderOrder": 4.0,
-                "color": 9.0,
-                "names": 2.0
+                "names": 2.0,
+                "color": 9.0
               },
               "subCategories": []
             }
@@ -181,9 +181,9 @@
       "protection": true,
       "settingOverrides": {
         "renderOrder": 1.0,
+        "names": 1.0,
         "color": 6.0,
-        "icons": 0.0,
-        "names": 1.0
+        "icons": 0.0
       },
       "subCategories": []
     },
