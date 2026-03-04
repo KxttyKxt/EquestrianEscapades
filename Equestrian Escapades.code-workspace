@@ -1,28 +1,40 @@
 {
 	"folders": [
         {
+            "name": "Equestrian Escapades",
             "path": "."
         },
         {
+            "name": "config",
             "path": "config"
         },
         {
-            "path": "kubejs"
-        },
-        {
-            "path": "config/incontrol"
-        },
-        {
+            "name": "defaultconfigs",
             "path": "defaultconfigs"
         },
         {
-            "path": "logs"
-        },
-        {
+            "name": "serverconfig",
             "path": "saves/Tests/serverconfig"
         },
         {
+            "name": "configureddefaults",
+            "path": "configureddefaults"
+        },
+        {
+            "name": "kubejs",
+            "path": "kubejs"
+        },
+        {
+            "name": "incontrol",
+            "path": "config/incontrol"
+        },
+        {
+            "name": ".modpack",
             "path": ".modpack"
+        },
+        {
+            "name": "logs",
+            "path": "logs"
         }
     ],
     "settings": {

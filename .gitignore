@@ -50,9 +50,16 @@ config/embeddium-options.json
 config/fabric/indigo-renderer.properties
 config/jade/jade.json
 config/languagereload-client.toml
+config/mobhealthbar-client.toml
 config/modernstartupqol/startup_times.json
 config/oculus.properties
+config/paperdoll.json
 config/particlerain.json
-config/sodiumextra-client.toml
+config/sodiumdynamiclights-client.toml
+config/sodiumextras-client.toml
+config/sodium-extra.properties
 config/sodium-extra-options.json
 config/WildfireGender/client.toml
+
+# client/opinionated config folders
+config/subtle_effects/
