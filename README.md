@@ -24,9 +24,9 @@ To avoid dumping these mods:
 
 1. Disable these mods through your launcher of choice
 2. Launch the game instance
-3. Open a world, preferably...
-   i. a world that isn't important (disabling these mods and loading into a world that uses them can bork things)
-   ii. a superflat world with all mob spawns turned off for performance reasons
+3. Open a world, preferably...  
+   i. a world that isn't important (disabling these mods and loading into a world that uses them can bork things)  
+   ii. a superflat world with all mob spawns turned off for performance reasons  
    iii. a world with cheats enabled
 4. Run `/probejs dump`
 5. When you see "ProbeJS typing generation finished. [TIMEs]", quit the game
