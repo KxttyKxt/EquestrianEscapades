@@ -1,15 +1,98 @@
 {
-  "main": {
+  "Configuration": {
     "1": {
-      "title": "Construction Stick Options",
+      "title": "Open Death History",
       "icon": {
-        "stack": "{Count:1b,id:\"constructionstick:diamond_stick\",tag:{Damage:0}}"
+        "stack": "{Count:1b,id:\"artifacts:obsidian_skull\"}"
       },
       "action": {
         "key": {
-          "key": "key.constructionstick.open_gui",
-          "toggle": false
+          "key": "key.corpse.death_history",
+          "toggle": true
         }
+      }
+    },
+    "2": {
+      "title": "Weapon Master",
+      "icon": {
+        "stack": "{Count:1b,id:\"minecraft:diamond_sword\",tag:{Damage:0}}"
+      },
+      "action": {
+        "key": {
+          "key": "key.weaponmaster_ydm.opengui",
+          "toggle": true
+        }
+      }
+    },
+    "3": {
+      "title": "Gender",
+      "icon": {
+        "stack": "{Count:1b,id:\"heartstone:heartstone\"}"
+      },
+      "action": {
+        "key": {
+          "key": "key.wildfire_gender.gender_menu",
+          "toggle": true
+        }
+      }
+    },
+    "4": {
+      "title": "Social Interactions",
+      "icon": {
+        "stack": "{Count:1b,id:\"furniture:gramophone\"}"
+      },
+      "action": {
+        "key": {
+          "key": "key.socialInteractions",
+          "toggle": true
+        }
+      }
+    },
+    "5": {
+      "title": "Health Bars",
+      "icon": {
+        "stack": "{Count:1b,id:\"artifacts:crystal_heart\"}"
+      },
+      "action": {
+        "key": {
+          "key": "key.mobhealthbar.chooser",
+          "toggle": true
+        }
+      }
+    },
+    "6": {
+      "title": "[CHEATS] Give Akashic Tome",
+      "icon": {
+        "stack": "{Count:1b,id:\"akashictome:tome\"}"
+      },
+      "action": {
+        "command": {
+          "command": "function escapades:give_full_akashic_tome",
+          "clipboard": false
+        }
+      }
+    }
+  },
+  "main": {
+    "0": {
+      "title": "Open Quiver",
+      "icon": {
+        "stack": "{Count:1b,ForgeCaps:{Parent:{Items:[],SelectedSlot:0,Size:6}},id:\"supplementaries:quiver\"}"
+      },
+      "action": {
+        "key": {
+          "key": "supplementaries.keybind.quiver",
+          "toggle": true
+        }
+      }
+    },
+    "1": {
+      "title": "Configuration... ?",
+      "icon": {
+        "stack": "{Count:1b,id:\"supplementaries:cog_block\"}"
+      },
+      "action": {
+        "category": "Configuration"
       }
     },
     "2": {
@@ -20,24 +103,60 @@
       "action": {
         "key": {
           "key": "key.pickItem",
-          "toggle": false
+          "toggle": true
         }
       }
     },
     "3": {
-      "title": "Coin of Fortune",
+      "title": "Open Curio Container",
       "icon": {
-        "stack": "{Count:1b,id:\"reliquary:fortune_coin\"}"
+        "stack": "{Count:1b,ForgeCaps:{Parent:{Items:[],Size:1}},id:\"convenientcurioscontainer:curios_container\"}"
       },
       "action": {
         "key": {
-          "key": "keybind.reliquary.fortune_coin",
-          "toggle": false
+          "key": "key.open_convenient_gui",
+          "toggle": true
         }
       }
     },
     "4": {
-      "title": "Map",
+      "title": "Open Backpack",
+      "icon": {
+        "stack": "{Count:1b,id:\"sophisticatedbackpacks:diamond_backpack\"}"
+      },
+      "action": {
+        "key": {
+          "key": "key.sophisticatedbackpacks.open_backpack",
+          "toggle": true
+        }
+      }
+    },
+    "5": {
+      "title": "Zoom",
+      "icon": {
+        "stack": "{Count:1b,id:\"minecraft:spyglass\"}"
+      },
+      "action": {
+        "key": {
+          "key": "keybind.name.ZOOM",
+          "toggle": true
+        }
+      }
+    },
+    "6": {
+      "title": "[CHEATS] Unstuck Horse",
+      "icon": {
+        "stack": "{Count:1b,id:\"swem:coin_amethyst\"}"
+      },
+      "action": {
+        "command": {
+          "command": "function escapades:horse_stuck_in_water",
+          "clipboard": false
+        }
+      }
+    },
+    "7": {
+      "title": "Map... ?",
       "icon": {
         "stack": "{Count:1b,id:\"minecraft:filled_map\"}"
       },
@@ -45,20 +164,57 @@
         "category": "Map"
       }
     },
-    "5": {
-      "title": "Gender",
+    "8": {
+      "title": "Sit (if set to Toggle)",
       "icon": {
-        "stack": "{Count:1b,id:\"heartstone:heartstone\"}"
+        "stack": "{Count:1b,id:\"furnitury:oak_chair\"}"
       },
       "action": {
         "key": {
-          "key": "key.wildfire_gender.gender_menu",
-          "toggle": false
+          "key": "key.personality.sit",
+          "toggle": true
+        }
+      }
+    },
+    "9": {
+      "title": "Crawl (if set to toggle)",
+      "icon": {
+        "stack": "{Count:1b,id:\"swem:jump_xc_bronze_diag\"}"
+      },
+      "action": {
+        "key": {
+          "key": "key.personality.crawl",
+          "toggle": true
         }
       }
     }
   },
+  "Horse Emotes": {},
   "Map": {
+    "1": {
+      "title": "World Map Settings",
+      "icon": {
+        "stack": "{Count:1b,id:\"farmersdelight:canvas\"}"
+      },
+      "action": {
+        "key": {
+          "key": "gui.xaero_open_settings",
+          "toggle": true
+        }
+      }
+    },
+    "2": {
+      "title": "Minimap Settings",
+      "icon": {
+        "stack": "{Count:1b,id:\"minecraft:paper\"}"
+      },
+      "action": {
+        "key": {
+          "key": "gui.xaero_minimap_settings",
+          "toggle": true
+        }
+      }
+    },
     "3": {
       "title": "Add Waypoint",
       "icon": {
@@ -67,7 +223,7 @@
       "action": {
         "key": {
           "key": "gui.xaero_new_waypoint",
-          "toggle": false
+          "toggle": true
         }
       }
     },
@@ -79,7 +235,7 @@
       "action": {
         "key": {
           "key": "gui.xaero_waypoints_key",
-          "toggle": false
+          "toggle": true
         }
       }
     },
@@ -91,7 +247,7 @@
       "action": {
         "key": {
           "key": "gui.xaero_open_map",
-          "toggle": false
+          "toggle": true
         }
       }
     }
