@@ -31,7 +31,11 @@
         "luckys_armory:bone_armor_helmet",
         "luckys_armory:bone_armor_chestplate",
         "luckys_armory:bone_armor_leggings",
-        "luckys_armory:bone_armor_boots"
+        "luckys_armory:bone_armor_boots",
+        // Lucky's Armory - Unused
+        "luckys_armory:molten_gold_bucket",
+        "luckys_armory:molten_iron_bucket",
+        "luckys_armory:smithing_template_leather_upgrade"
     ],
     // -----------------------------------------------------------
     // Removes an item if it contains certain nbt tag. If the whole entry (or expression) is present, the item gets removed.

@@ -1,10 +1,15 @@
 {
     "values": [
         "minecraft:shield",
+
         "shieldexp:diamond_shield",
         "shieldexp:golden_shield",
         "shieldexp:iron_shield",
         "shieldexp:netherite_shield",
-        "shieldexp:wooden_shield"
+        "shieldexp:wooden_shield",
+
+        "luckys_armory:molten_gold_bucket",
+        "luckys_armory:molten_iron_bucket",
+        "luckys_armory:smithing_template_leather_upgrade"
     ]
 }

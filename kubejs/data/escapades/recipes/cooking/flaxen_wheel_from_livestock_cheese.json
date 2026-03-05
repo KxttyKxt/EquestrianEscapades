@@ -1,0 +1,23 @@
+{
+	"type": "farmersdelight:cooking",
+	"ingredients": [
+		{
+			"tag": "escapades:raw_cheese"
+		},
+		{
+			"item": "minecraft:sugar"
+		},
+		{
+			"item": "minecraft:brown_mushroom"
+		},
+		{
+			"item": "minecraft:pumpkin_seeds"
+		},
+        {
+            "item": "minecraft:honeycomb"
+        }
+	],
+	"result": {
+		"item": "brewinandchewin:unripe_flaxen_cheese_wheel"
+	}
+}

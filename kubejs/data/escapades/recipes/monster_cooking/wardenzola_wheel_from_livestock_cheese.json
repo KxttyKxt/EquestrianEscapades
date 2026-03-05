@@ -1,0 +1,23 @@
+{
+	"type": "dungeonsdelight:monster_cooking",
+	"ingredients": [
+		{
+			"tag": "escapades:raw_cheese"
+		},
+		{
+			"item": "dungeonsdelight:sculk_polyp"
+		},
+		{
+			"item": "dungeonsdelight:sculk_polyp"
+		},
+		{
+			"item": "dungeonsdelight:rotbulb"
+		},
+        {
+            "item": "minecraft:honeycomb"
+        }
+	],
+	"result": {
+		"item": "chewy_cheeses:unripe_wardenzola_cheese_wheel"
+	}
+}

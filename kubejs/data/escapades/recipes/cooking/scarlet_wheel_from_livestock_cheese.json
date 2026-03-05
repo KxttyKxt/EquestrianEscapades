@@ -1,0 +1,26 @@
+{
+	"type": "farmersdelight:cooking",
+	"ingredients": [
+		{
+			"tag": "escapades:raw_cheese"
+		},
+		{
+			"item": "minecraft:crimson_fungus"
+		},
+		{
+			"item": "minecraft:nether_wart"
+		},
+		{
+			"item": "minecraft:sugar"
+		},
+        {
+            "item": "minecraft:blaze_powder"
+        },
+        {
+            "item": "minecraft:honeycomb"
+        }
+	],
+	"result": {
+		"item": "brewinandchewin:unripe_scarlet_cheese_wheel"
+	}
+}

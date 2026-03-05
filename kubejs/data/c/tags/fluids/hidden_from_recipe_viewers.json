@@ -1,0 +1,17 @@
+{
+    "values": [
+        "chewy_cheeses:blue_cheese",
+        "chewy_cheeses:glow_cheese",
+        "chewy_cheeses:nether_cheese",
+        "chewy_cheeses:rat_leicester_cheese",
+        "chewy_cheeses:flowing_blue_cheese",
+        "chewy_cheeses:flowing_glow_cheese",
+        "chewy_cheeses:flowing_nether_cheese",
+        "chewy_cheeses:flowing_rat_leicester_cheese",
+
+        "luckys_armory:molten_gold",
+        "luckys_armory:molten_iron",
+        "luckys_armory:flowing_molten_gold",
+        "luckys_armory:flowing_molten_iron"
+    ]
+}

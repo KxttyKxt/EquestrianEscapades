@@ -1,8 +1,8 @@
 {
 	"folders": [
         {
-            "name": "Equestrian Escapades",
-            "path": "."
+            "name": "kubejs",
+            "path": "kubejs"
         },
         {
             "name": "config",
@@ -21,10 +21,6 @@
             "path": "configureddefaults"
         },
         {
-            "name": "kubejs",
-            "path": "kubejs"
-        },
-        {
             "name": "incontrol",
             "path": "config/incontrol"
         },
@@ -35,6 +31,10 @@
         {
             "name": "logs",
             "path": "logs"
+        },
+        {
+            "name": "Equestrian Escapades",
+            "path": "."
         }
     ],
     "settings": {
