@@ -1,6 +1,7 @@
 {
     "values": [
         "minecraft:bundle",
+        "minecraft:totem_of_undying",
         "quark:seed_pouch"
     ],
     "remove": [ 

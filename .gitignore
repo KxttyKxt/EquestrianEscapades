@@ -44,6 +44,7 @@ mod_data/gml/*
 **/*temp*/
 
 # client/opinionated config files
+config/clienttweaks-common.toml
 config/cubes_without_borders.json
 config/distraction_free_recipes-client.toml
 config/dynamic_fps.json
