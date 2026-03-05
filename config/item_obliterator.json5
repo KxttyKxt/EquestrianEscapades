@@ -26,7 +26,12 @@
         // All swem gear except riding boots and cowboy/riding hats
         "!swem:(scythe|pickaxe|axe|shovel|sword|leggings|helmet|chestplate|bow|shield).*",
         // All swift blades from Prefab
-        "!prefab:item_(swift_blade|sickle)_.*"
+        "!prefab:item_(swift_blade|sickle)_.*",
+        // Lucky's Armory - Bone Armor (overlaps with Immersive Armors)
+        "luckys_armory:bone_armor_helmet",
+        "luckys_armory:bone_armor_chestplate",
+        "luckys_armory:bone_armor_leggings",
+        "luckys_armory:bone_armor_boots"
     ],
     // -----------------------------------------------------------
     // Removes an item if it contains certain nbt tag. If the whole entry (or expression) is present, the item gets removed.
