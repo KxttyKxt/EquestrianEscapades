@@ -1,0 +1,31 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"key": {
+        "G": {
+            "item": "reliquary:catalyzing_gland"
+        },
+        "P": {
+            "item": "minecraft:phantom_membrane"
+        },
+        "D": {
+            "item": "minecraft:diamond"
+        },
+        "H": {
+            "item": "minecraft:rabbit_hide"
+        },
+        "B": {
+            "item": "minecraft:leather_boots"
+        },
+		"S": {
+            "item": "minecraft:nether_star"
+        }
+	},
+	"pattern": [
+        "GPG", 
+        "DBH", 
+        "GSG"
+    ],
+	"result": {
+		"item": "artifacts:kitty_slippers"
+	}
+}

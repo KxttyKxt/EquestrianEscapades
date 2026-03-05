@@ -1,0 +1,31 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"key": {
+        "R": {
+            "item": "minecraft:rabbit_foot"
+        },
+        "A": {
+            "item": "reliquary:angelic_feather"
+        },
+        "D": {
+            "item": "minecraft:diamond"
+        },
+        "B": {
+            "item": "minecraft:leather_boots"
+        },
+        "C": {
+            "item": "minecraft:golden_carrot"
+        },
+		"S": {
+            "item": "minecraft:nether_star"
+        }
+	},
+	"pattern": [
+        "RAR", 
+        "DBC", 
+        "RSR"
+    ],
+	"result": {
+		"item": "artifacts:bunny_hoppers"
+	}
+}
