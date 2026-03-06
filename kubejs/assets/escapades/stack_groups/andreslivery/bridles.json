@@ -1,0 +1,32 @@
+{
+    "type": "emixx:group",
+    "contents": [
+        "andreslivery:english_bridle_andre_1",
+        "andreslivery:english_bridle_andre_2",
+        "andreslivery:english_bridle_andre_3",
+
+        "andreslivery:english_bridle_fluffy_andre_1",
+        "andreslivery:english_bridle_fluffy_andre_2",
+        "andreslivery:english_bridle_fluffy_andre_3",
+
+        "andreslivery:english_bridle_grackle_andre_1",
+        "andreslivery:english_bridle_grackle_andre_2",
+        "andreslivery:english_bridle_grackle_andre_3",
+
+        "andreslivery:english_bridle_grackle_fluffy_andre_1",
+        "andreslivery:english_bridle_grackle_fluffy_andre_2",
+        "andreslivery:english_bridle_grackle_fluffy_andre_3",
+
+        "andreslivery:english_bridle_bosal_andre_1",
+        "andreslivery:english_bridle_bosal_andre_2",
+        "andreslivery:english_bridle_bosal_andre_3",
+
+        "andreslivery:western_bridle_andre_1",
+        "andreslivery:western_bridle_andre_2",
+        "andreslivery:western_bridle_andre_3",
+
+        "andreslivery:medieval_bridle_andre_1",
+        "andreslivery:medieval_bridle_andre_2",
+        "andreslivery:medieval_bridle_andre_3"
+    ]
+}
