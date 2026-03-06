@@ -1,0 +1,28 @@
+{
+    "type": "emixx:group",
+    "contents": [
+        "blossomeq:beq_girth_gold_1",
+        "blossomeq:beq_girth_gold_2",
+        "blossomeq:beq_girth_gold_3",
+        
+        "blossomeq:beq_girth_rosegold_1",
+        "blossomeq:beq_girth_rosegold_2",
+        "blossomeq:beq_girth_rosegold_3",
+        
+        "blossomeq:beq_girth_gunmetal_1",
+        "blossomeq:beq_girth_gunmetal_2",
+        "blossomeq:beq_girth_gunmetal_3",
+        
+        "blossomeq:beq_girth_silver_1",
+        "blossomeq:beq_girth_silver_2",
+        "blossomeq:beq_girth_silver_3",
+        
+        "blossomeq:beq_girth_whitesilver_1",
+        "blossomeq:beq_girth_whitesilver_2",
+        "blossomeq:beq_girth_whitesilver_3",
+        
+        "blossomeq:beq_girth_copper_1",
+        "blossomeq:beq_girth_copper_2",
+        "blossomeq:beq_girth_copper_3"
+    ]
+}

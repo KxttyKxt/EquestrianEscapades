@@ -1,0 +1,28 @@
+{
+    "type": "emixx:group",
+    "contents": [
+        "blossomeq:beq_shortgirth_gold_1",
+        "blossomeq:beq_shortgirth_gold_2",
+        "blossomeq:beq_shortgirth_gold_3",
+        
+        "blossomeq:beq_shortgirth_rosegold_1",
+        "blossomeq:beq_shortgirth_rosegold_2",
+        "blossomeq:beq_shortgirth_rosegold_3",
+        
+        "blossomeq:beq_shortgirth_gunmetal_1",
+        "blossomeq:beq_shortgirth_gunmetal_2",
+        "blossomeq:beq_shortgirth_gunmetal_3",
+        
+        "blossomeq:beq_shortgirth_silver_1",
+        "blossomeq:beq_shortgirth_silver_2",
+        "blossomeq:beq_shortgirth_silver_3",
+        
+        "blossomeq:beq_shortgirth_whitesilver_1",
+        "blossomeq:beq_shortgirth_whitesilver_2",
+        "blossomeq:beq_shortgirth_whitesilver_3",
+        
+        "blossomeq:beq_shortgirth_copper_1",
+        "blossomeq:beq_shortgirth_copper_2",
+        "blossomeq:beq_shortgirth_copper_3"
+    ]
+}

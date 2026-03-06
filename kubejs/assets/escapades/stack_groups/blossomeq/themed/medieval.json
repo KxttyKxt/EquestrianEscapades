@@ -1,0 +1,22 @@
+{
+    "type": "emixx:group",
+    "contents": [
+        "blossomeq:asheerahs_medieval_bridle_1",
+        "blossomeq:asheerahs_medieval_bridle_2",
+        "blossomeq:asheerahs_medieval_bridle_3",
+        "blossomeq:asheerahs_medieval_bridle_4",
+
+        "blossomeq:asheerahs_medieval_saddle",
+        "blossomeq:asheerahs_medieval_girth",
+
+        "blossomeq:asheerahs_medieval_breastcollar_1",
+        "blossomeq:asheerahs_medieval_breastcollar_2",
+        "blossomeq:asheerahs_medieval_breastcollar_3",
+        "blossomeq:asheerahs_medieval_breastcollar_4",
+
+        "blossomeq:asheerahs_medieval_saddlepad_1",
+        "blossomeq:asheerahs_medieval_saddlepad_2",
+        "blossomeq:asheerahs_medieval_saddlepad_3",
+        "blossomeq:asheerahs_medieval_saddlepad_4"
+    ]
+}

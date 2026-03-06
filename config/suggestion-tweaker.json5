@@ -8,6 +8,6 @@
 	   VERY_LOOSE: It should contain all of the input's letters, in any order
 	*/
 	"filteringMode": "LOOSE",
-	"shouldHideSuggestionsWithPrefix": false,
+	"shouldHideSuggestionsWithPrefix": true,
 	"hidePrefix": "_"
 }

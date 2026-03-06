@@ -1,0 +1,10 @@
+{
+    "type": "emixx:group",
+    "contents": [
+        "blossomeq:blossom_flysheet_neutral_1",
+        "blossomeq:blossom_flysheet_neutral_2",
+        "blossomeq:blossom_flysheet_neutral_3",
+        "blossomeq:blossom_flysheet_neutral_4",
+        "blossomeq:blossom_flysheet_neutral_5"
+    ]
+}

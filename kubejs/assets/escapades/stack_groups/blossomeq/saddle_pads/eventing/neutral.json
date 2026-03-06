@@ -1,0 +1,10 @@
+{
+    "type": "emixx:group",
+    "contents": [
+        "blossomeq:eventing_pad_neutral_1",
+        "blossomeq:eventing_pad_neutral_2",
+        "blossomeq:eventing_pad_neutral_3",
+        "blossomeq:eventing_pad_neutral_4",
+        "blossomeq:eventing_pad_neutral_5"
+    ]
+}

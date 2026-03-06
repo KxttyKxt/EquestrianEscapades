@@ -1,0 +1,7 @@
+{
+	"type": "emixx:group",
+	"contents": [
+        "#minecraft:logs",
+        "#quark:hollow_logs"
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "type": "emixx:group",
+    "contents": [
+        "blossomeq:eventing_pad_mel",
+
+        "blossomeq:eventing_pad_brown_tish",
+        "blossomeq:eventing_pad_black_tish",
+        "blossomeq:earbonnets_tish",
+        "blossomeq:blossom_leg_wraps_tish",
+        "blossomeq:bonnetsandwraps_tish",
+
+        "blossomeq:eventing_pad_santago",
+        "blossomeq:earbonnets_santago",
+        "blossomeq:blossom_leg_wraps_santago",
+        "blossomeq:bonnetsandwraps_santago",
+        "blossomeq:halter_blossom_santago",
+        "blossomeq:pasture_blanket_santago",
+        "blossomeq:blossom_flymask_santago",
+        "blossomeq:blossom_flysheet_santago",
+
+        "blossomeq:eventing_pad_yrsa",
+        "blossomeq:earbonnets_yrsa",
+        "blossomeq:blossom_leg_wraps_yrsa",
+        "blossomeq:bonnetsandwraps_yrsa",
+        "blossomeq:halter_blossom_yrsa",
+        "blossomeq:pasture_blanket_yrsa",
+        "blossomeq:blossom_flymask_yrsa",
+        "blossomeq:blossom_flysheet_yrsa"
+    ]
+}
