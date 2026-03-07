@@ -57,7 +57,7 @@ config/mobhealthbar-client.toml
 config/modernstartupqol/startup_times.json
 config/oculus.properties
 config/paperdoll.json
-config/particlerain.json
+config/particlerain/config.json
 config/sodiumdynamiclights-client.toml
 config/sodiumextras-client.toml
 config/sodium-extra.properties
