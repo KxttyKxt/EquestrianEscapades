@@ -108,13 +108,13 @@
       }
     },
     "3": {
-      "title": "Open Curio Container",
+      "title": "Coin of Fortune",
       "icon": {
-        "stack": "{Count:1b,ForgeCaps:{Parent:{Items:[],Size:1}},id:\"convenientcurioscontainer:curios_container\"}"
+        "stack": "{Count:1b,id:\"reliquary:fortune_coin\"}"
       },
       "action": {
         "key": {
-          "key": "key.open_convenient_gui",
+          "key": "keybind.reliquary.fortune_coin",
           "toggle": true
         }
       }
