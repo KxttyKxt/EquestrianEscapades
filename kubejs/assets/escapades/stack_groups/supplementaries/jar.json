@@ -1,0 +1,6 @@
+{
+    "type": "emixx:group",
+    "contents": [
+        "supplementaries:jar"
+    ]
+}

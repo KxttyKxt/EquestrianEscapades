@@ -16,4 +16,15 @@ ServerEvents.tags("item", event => {
 	steakItems.forEach(item => {
 		if (!pattyBlacklist.test(item)) event.add(cookedSteakTag, item);
 	});
+
+    // assign all chests to mutually exclusive trapped or untrapped tags.
+    const chestsTag = "escapades:untrapped_chests";
+    const trappedChestsTag = "escapades:trapped_chests";
+    const isTrapped = Ingredient.of(/.*trapped.*/)
+    const allChests = event.get("forge:chests").getObjectIds();
+
+    allChests.forEach(chest => {
+        if (isTrapped.test(chest)) event.add(trappedChestsTag, chest);
+        else event.add(chestsTag, chest);
+    })
 });

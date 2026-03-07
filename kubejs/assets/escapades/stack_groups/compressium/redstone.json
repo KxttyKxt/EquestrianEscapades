@@ -1,0 +1,14 @@
+{
+    "type": "emixx:group",
+    "contents": [
+        "compressium:redstone_1",
+        "compressium:redstone_2",
+        "compressium:redstone_3",
+        "compressium:redstone_4",
+        "compressium:redstone_5",
+        "compressium:redstone_6",
+        "compressium:redstone_7",
+        "compressium:redstone_8",
+        "compressium:redstone_9"
+    ]
+}
