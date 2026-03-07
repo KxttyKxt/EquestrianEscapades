@@ -13,12 +13,20 @@
 		"heartstone:heart_particles",
 		"supplementaries:darker_ropes",
 
+        "file/Better-Leaves-9.5.zip",
+        "file/Stay_True_1.20.zip",
+        "file/staytrue1.20.1.zip",
+
 		"file/Icon Xaero's 1.21.zip",
 		"file/Visual Titles 1.3.zip",
 		"file/Serified Font v1.2.zip",
+        "file/waystones_1.20.1_update_5.zip",
+        "file/Better SB Upgrades.zip",
 
 		"file/-1.21.2 Fresh Moves v3.1 (With Animated Eyes).zip",
 		"file/FreshAnimations_v1.10.4.zip",
+        "file/FA+All_Extensions-v1.8.zip",
+        "file/FreshCompats_v1.6.zip",
 		"file/Icon Fresh 1.3.zip",
 		"file/v1.5 Anim Tweaks Long Hair.zip",
 
@@ -44,11 +52,15 @@
 		"modpack-preferred": [
 			"file/Icon Xaero's 1.21.zip",
 			"file/Visual Titles 1.3.zip",
-			"file/Serified Font v1.2.zip"
+			"file/Serified Font v1.2.zip",
+            "file/waystones_1.20.1_update_5.zip",
+            "file/Better SB Upgrades.zip"
 		],
 		"animated": [
 			"file/-1.21.2 Fresh Moves v3.1 (With Animated Eyes).zip",
 			"file/FreshAnimations_v1.10.4.zip",
+            "file/FA+All_Extensions-v1.8.zip",
+            "file/FreshCompats_v1.6.zip",
 			"file/Icon Fresh 1.3.zip",
 			"file/v1.5 Anim Tweaks Long Hair.zip"
 		],
