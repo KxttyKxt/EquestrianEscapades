@@ -1,0 +1,14 @@
+{
+    "type": "emixx:group",
+    "contents": [
+               "luminara:luminara_eng_saddle_1",
+               "luminara:luminara_eng_saddle_2",
+               "luminara:luminara_eng_saddle_3",
+               "luminara:luminara_eng_saddle_4",
+
+               "luminara:luminara_wes_saddle_1",
+               "luminara:luminara_wes_saddle_2",
+               "luminara:luminara_wes_saddle_3",
+               "luminara:luminara_wes_saddle_4"
+    ]
+}

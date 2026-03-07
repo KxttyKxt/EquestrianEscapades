@@ -1,0 +1,18 @@
+{
+    "type": "emixx:group",
+    "contents": [
+               "luminara:english_girth_1",
+               "luminara:english_girth_2",
+               "luminara:english_girth_3",
+               "luminara:english_girth_4",
+               "luminara:english_girth_5",
+               "luminara:english_girth_6",
+               "luminara:english_girth_7",
+               "luminara:english_girth_8",
+
+               "luminara:western_girth_1",
+               "luminara:western_girth_2",
+               "luminara:western_girth_3",
+               "luminara:western_girth_4"
+    ]
+}

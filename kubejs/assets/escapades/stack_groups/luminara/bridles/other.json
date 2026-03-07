@@ -1,0 +1,19 @@
+{
+    "type": "emixx:group",
+    "contents": [
+               "luminara:luminara_headstall_bridle_1",
+               "luminara:luminara_headstall_bridle_2",
+               "luminara:luminara_headstall_bridle_3",
+               "luminara:luminara_headstall_bridle_4",
+
+               "luminara:luminara_crank_1",
+               "luminara:luminara_crank_2",
+               "luminara:luminara_crank_3",
+               "luminara:luminara_crank_4",
+
+               "luminara:lum_bitless_1",
+               "luminara:lum_bitless_2",
+               "luminara:lum_bitless_3",
+               "luminara:lum_bitless_4"
+    ]
+}
