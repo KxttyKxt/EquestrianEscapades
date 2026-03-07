@@ -1,0 +1,21 @@
+{
+    "type": "emixx:group",
+    "contents": [
+        "dragnpets:black_vest",
+        "dragnpets:blue_vest",
+        "dragnpets:brown_vest",
+        "dragnpets:cyan_vest",
+        "dragnpets:green_vest",
+        "dragnpets:grey_vest",
+        "dragnpets:light_blue_vest",
+        "dragnpets:light_grey_vest",
+        "dragnpets:lime_vest",
+        "dragnpets:magenta_vest",
+        "dragnpets:orange_vest",
+        "dragnpets:pink_vest",
+        "dragnpets:purple_vest",
+        "dragnpets:red_vest",
+        "dragnpets:white_vest",
+        "dragnpets:yellow_vest"
+    ]
+}

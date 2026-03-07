@@ -1,0 +1,23 @@
+{
+    "type": "emixx:group",
+    "contents": [
+        "dragnlivestock:light_saddle",
+        
+        "dragnlivestock:black_accented_light_saddle",
+        "dragnlivestock:blue_accented_light_saddle",
+        "dragnlivestock:brown_accented_light_saddle",
+        "dragnlivestock:cyan_accented_light_saddle",
+        "dragnlivestock:green_accented_light_saddle",
+        "dragnlivestock:grey_accented_light_saddle",
+        "dragnlivestock:light_blue_accented_light_saddle",
+        "dragnlivestock:light_grey_accented_light_saddle",
+        "dragnlivestock:lime_accented_light_saddle",
+        "dragnlivestock:magenta_accented_light_saddle",
+        "dragnlivestock:orange_accented_light_saddle",
+        "dragnlivestock:pink_accented_light_saddle",
+        "dragnlivestock:purple_accented_light_saddle",
+        "dragnlivestock:red_accented_light_saddle",
+        "dragnlivestock:white_accented_light_saddle",
+        "dragnlivestock:yellow_accented_light_saddle"
+    ]
+}

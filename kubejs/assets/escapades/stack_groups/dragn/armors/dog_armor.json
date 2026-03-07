@@ -1,0 +1,14 @@
+{
+    "type": "emixx:group",
+    "contents": [
+        "dragnpets:leather_dog_armor",
+        "dragnpets:iron_dog_armor",
+        "dragnpets:gold_dog_armor",
+        "dragnpets:diamond_dog_armor",
+        "dragnpets:chainmail_dog_armor",
+        "dragnpets:copper_dog_armor",
+        "dragnpets:quartz_dog_armor",
+        "dragnpets:emerald_dog_armor",
+        "dragnpets:netherite_dog_armor"
+    ]
+}

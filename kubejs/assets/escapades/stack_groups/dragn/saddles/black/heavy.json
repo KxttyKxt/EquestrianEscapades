@@ -1,0 +1,22 @@
+{
+    "type": "emixx:group",
+    "contents": [
+        "dragnlivestock:black_heavy_saddle",
+        
+        "dragnlivestock:blue_accented_black_heavy_saddle",
+        "dragnlivestock:brown_accented_black_heavy_saddle",
+        "dragnlivestock:cyan_accented_black_heavy_saddle",
+        "dragnlivestock:green_accented_black_heavy_saddle",
+        "dragnlivestock:grey_accented_black_heavy_saddle",
+        "dragnlivestock:light_blue_accented_black_heavy_saddle",
+        "dragnlivestock:light_grey_accented_black_heavy_saddle",
+        "dragnlivestock:lime_accented_black_heavy_saddle",
+        "dragnlivestock:magenta_accented_black_heavy_saddle",
+        "dragnlivestock:orange_accented_black_heavy_saddle",
+        "dragnlivestock:pink_accented_black_heavy_saddle",
+        "dragnlivestock:purple_accented_black_heavy_saddle",
+        "dragnlivestock:red_accented_black_heavy_saddle",
+        "dragnlivestock:white_accented_black_heavy_saddle",
+        "dragnlivestock:yellow_accented_black_heavy_saddle"
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "type": "emixx:group",
+    "contents": [
+        "dragnlivestock:black_wool_dye",
+        "dragnlivestock:blue_wool_dye",
+        "dragnlivestock:brown_wool_dye",
+        "dragnlivestock:cyan_wool_dye",
+        "dragnlivestock:green_wool_dye",
+        "dragnlivestock:grey_wool_dye",
+        "dragnlivestock:light_blue_wool_dye",
+        "dragnlivestock:light_grey_wool_dye",
+        "dragnlivestock:lime_wool_dye",
+        "dragnlivestock:magenta_wool_dye",
+        "dragnlivestock:orange_wool_dye",
+        "dragnlivestock:pink_wool_dye",
+        "dragnlivestock:purple_wool_dye",
+        "dragnlivestock:red_wool_dye",
+        "dragnlivestock:white_wool_dye",
+        "dragnlivestock:yellow_wool_dye"
+    ]
+}
